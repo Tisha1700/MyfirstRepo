@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Home() {
   const skills = [
-    'c language', 'Reading', 'Cooking', 'html', 'Driving', 'Database', 'AWS', 
+    'c language','html', 'Database', 'AWS', 
     'Cyber Security', 'Cloud Computing'
   ];
 
@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className="text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight">Tisha Goti</h1>
         <h2 className="text-xl md:text-2xl text-slate-600 mt-4 font-medium">B-TECH IT STUDENT | 3rd Year | Cloud & Cyber Security Expert</h2>
         <p className="mt-6 text-lg text-slate-700 max-w-3xl leading-relaxed">
-          M.Tech in Computer Science and Engineering with over 21 years of professional teaching experience. 
+          M.Tech in Computer Science and Engineering with over 20 years of professional teaching experience. 
           Specializing in modern full-stack web development, cloud-native architectures, and database management. 
           Currently serving at Sarvajanik College of Engineering & Technology.
         </p>
